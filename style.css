@@ -1,0 +1,13 @@
+body {
+font-family: sans-serif;
+max-width: 40rem;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.custom-background {
+    background-image: url ('alcartins-dHTl86UCUlw-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
